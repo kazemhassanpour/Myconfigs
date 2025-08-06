@@ -1,12 +1,1 @@
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@all85-vip.f-sub.com:1517?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%2F%F0%9F%87%BA%F0%9F%87%B8%2F%F0%9F%87%AB%F0%9F%87%B7%20All%20Location
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@em-4.web-manage.com.tr:1429?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%8F%B4%F3%A0%81%A7%F3%A0%81%A2%F3%A0%81%A5%F3%A0%81%AE%F3%A0%81%A7%F3%A0%81%BF%20England
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@all85-vip.f-sub.com:1517?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%202
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@em-1.web-manage.com.tr:4928?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherland
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@all85-vip.f-sub.com:1517?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%203
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@all85-vip.f-sub.com:1517?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%201
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@all85-vip.f-sub.com:1517?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%2F%F0%9F%87%BA%F0%9F%87%B8%2F%F0%9F%87%AB%F0%9F%87%B7%20All%20Location
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@em-3.web-manage.com.tr:3799?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%20Poland
 vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@em-2.web-manage.com.tr:3799?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@all85-vip.f-sub.com:2434?security=reality&encryption=none&pbk=yGgU4VVwpWk3sY54VgDxYVg77n5i-4jduHegq6PqPyA&headerType=none&fp=chrome&type=tcp&sni=www.chess.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%205
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@em-5.web-manage.com.tr:3789?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20USA
-vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@1.1.1.1:9828?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%E2%99%BB%EF%B8%8F%209.18%20GB%20%7C%20%E2%8F%B3%20%3A%20%E2%88%9E%20-%20kazemhp
