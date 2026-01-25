@@ -1,2 +1,3 @@
 vless://6dfae08b-986c-4ec0-98c0-3ac90d8de371@89.34.230.136:18853?type=tcp&security=none#K%20VPN-Zare%20Hus
 vless://6dfae08b-986c-4ec0-98c0-3ac90d8de371@[2a0e:97c0:180:5b::1]:18853?type=tcp&security=none#Zare%20Hus
+vless://128a94b3-a37c-4f68-93d1-d2bb3f87aa46@ert-9.v-sub.site:8880?path=%2F%3Fed%3D2080&security=none&encryption=none&host=admin.whaletm2.site&type=httpupgrade#Zare+Hus+1
