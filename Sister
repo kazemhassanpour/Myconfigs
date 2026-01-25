@@ -1,2 +1,3 @@
 vless://fbf1e907-4fa8-44e4-f06e-dc9e98001949@89.34.230.136:18853?type=tcp&security=none#K%20VPN-Sister
 vless://fbf1e907-4fa8-44e4-f06e-dc9e98001949@[2a0e:97c0:180:5b::1]:18853?type=tcp&security=none#Sister
+vless://2dc865c4-93a9-4122-b71b-d3b7b96bfe95@ert-9.v-sub.site:8880?path=%2F%3Fed%3D2080&security=none&encryption=none&host=admin.whaletm2.site&type=httpupgrade#Sister+1
