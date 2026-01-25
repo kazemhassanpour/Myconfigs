@@ -1,3 +1,4 @@
 vless://66eb1ba9-12fb-468e-a167-031af4b2387d@89.34.230.136:18853?type=tcp&security=none#K%20VPN-Kazem
 vless://66eb1ba9-12fb-468e-a167-031af4b2387d@[2a0e:97c0:180:5b::1]:18853?type=tcp&security=none#Kazem
 vless://de148b00-43fb-4a1a-8474-4fe926bf60cc@ert-9.v-sub.site:8880?path=%2F%3Fed%3D2080&security=none&encryption=none&host=admin.whaletm2.site&type=httpupgrade#Kazem+1
+https://a-l.fl-sub.site:2096/sub/a2F6ZW1ocCwxNzY5MzM4NTk1UQPOIGsx80
