@@ -1,3 +1,4 @@
 vless://1f04d74f-8f6a-449d-bc8b-4923ec1f26c2@vip-80.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#Naser.s
 vless://1f04d74f-8f6a-449d-bc8b-4923ec1f26c2@c4.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Naser.s%201
 vless://1f04d74f-8f6a-449d-bc8b-4923ec1f26c2@c4.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Naser.s%202
+vless://1f04d74f-8f6a-449d-bc8b-4923ec1f26c2@188.114.98.0:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=1&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=1&sni=backup.f-sub.cfd#Naser.s%203
